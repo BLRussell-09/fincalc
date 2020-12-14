@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background: linear-gradient(to bottom, #002d72, #00a19b 150%) no-repeat center center fixed;
 }
 
 .App-logo {
@@ -35,4 +36,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.fincalcHead {
+  color: white;
 }
